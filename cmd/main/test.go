@@ -51,5 +51,5 @@ var ageKirillPointer *int = &kirill.age
 var contactPhonePointer *int = &kirill.contact.phoneNumber
 
 func main() {
-	massivePerebor(numbers[:])
+	massivePerebor(numbers2[:])
 }
